@@ -1,0 +1,2 @@
+# Doxcfile
+gg vsem pypsiki
